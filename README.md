@@ -35,5 +35,12 @@ Table order_details contains 5 columns and 12234 rows:-
 
 ## Analysis Results
 
--
-
+- The menu consists of 32 items belonging to 4 cuisines - 9 Mexican, 9 Italian, 8 Asian and 6 American dishes. Edamame of Asian Cuisine is the least expensive and Shrimp Scampi of Italian Cuisine is the most expensive item on the menu.
+- Italian is the most expensive and American is the least expensive cuisine on the menu with average item price per cuisine of $16.75 and $10.07 respectively.
+- Total 12097 Items were ordered from the menu of which Chicken Tacos were ordered the least at 123 times (Still, ordered good amount of times for being at last position) and Hamburger was ordered the most at 622 times.
+- March recived the highest number of orders as well as made the most Sales.
+- Italian cuisine was the most ordered and had the highest sales.
+- A whole working day at the restaurant was divided into 5 sections [Brunch, Lunch, Snack Time, Happy Hour and Dinner] by assuming 10:30 am as opening time and 11:30 pm as closing time. Brunch time section accounted for least and Happy Hour time section accounted for most orders. Lunch time section made the highest sales.
+- There is an average sales of $26.80 per order.
+- $192 were the highest amount spent on an order for 14 items and $5 were the least amount spent on an order for 1 item.
+- There have been total 5343 Orders since the introduction of new menu and restaurant has made Total Sales of about $160,000. Hence, it can be said that the new restaurant menu is performing well.
