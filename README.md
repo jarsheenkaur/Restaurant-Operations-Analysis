@@ -43,4 +43,4 @@ Table order_details contains 5 columns and 12234 rows.
 - A whole working day at the restaurant was divided into 5 sections [Brunch, Lunch, Snack Time, Happy Hour and Dinner] by assuming 10:30 am as opening time and 11:30 pm as closing time. Brunch time section accounted for the least and Happy Hour time section accounted for the most number of orders. Lunch time section made the highest sales.
 - Average sales made per order was $26.80.
 - $192 were the highest amount spent on an order for 14 items and $5 were the least amount spent on an order for 1 item.
-- There have been total 5343 Orders since the introduction of new menu and restaurant has made Total Sales of about $160,000. Hence, it can be said that the new restaurant menu is performing well.
+- There have been total 5343 Orders since the introduction of new menu and restaurant has made Total Sales of about $160,000. Hence, it can be said that the new restaurant menu has performed well for the first quarter.
