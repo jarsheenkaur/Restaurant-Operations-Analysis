@@ -39,8 +39,12 @@ Table order_details contains 5 columns and 12234 rows.
 - Italian is the most expensive and American is the least expensive cuisine on the menu with average item price per cuisine of $16.75 and $10.07 respectively.
 - Total 12097 Items were ordered from the menu of which Chicken Tacos were ordered the least at 123 times (Still, ordered good amount of times for being at last position) and Hamburger was ordered the most at 622 times.
 - March recived the highest number of orders as well as made the most Sales.
-- Italian cuisine was the most ordered and had the highest sales.
+- Asian cuisine was the most ordered and Italian cuisine had the highest sales.
+- Top 3 Items according to Number of Orders --> Hamburger, Edamame and Korean Beef Bowl.
+- Top 3 Items according to Sales Price Earned --> Korean Beef Bowl, Spaghetti & Meatballs and Tofu Pad Thai.
+- Bottom 3 Items according to Number of Orders --> Cheese Lasagna, Potstickers and Chicken Tacos.
+- Bottom 3 Items according to Sales Price Earned --> Chips & Guacamole, Potstickers and Chicken Tacos.
 - A whole working day at the restaurant was divided into 5 sections [Brunch, Lunch, Snack Time, Happy Hour and Dinner] by assuming 10:30 am as opening time and 11:30 pm as closing time. Brunch time section accounted for the least and Happy Hour time section accounted for the most number of orders. Lunch time section made the highest sales.
 - Average sales made per order was $26.80.
 - $192 were the highest amount spent on an order for 14 items and $5 were the least amount spent on an order for 1 item.
-- There have been total 5343 Orders since the introduction of new menu and restaurant has made Total Sales of about $160,000. Hence, it can be said that the new restaurant menu has performed well for the first quarter.
+- There have been total 5343 Orders since the introduction of new menu and restaurant has made Total Sales of about $160,000. Hence, it can be said that the new restaurant menu has performed well for the first quarter. If there is a need to eliminate some items from the menu then Potstickers and Chicken Tacos can be removed as they have lowest number of orders as well as lowest amount of sales.
